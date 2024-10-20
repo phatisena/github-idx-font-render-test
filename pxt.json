@@ -1,0 +1,28 @@
+{
+    "name": "github-idx-font-render-test",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "pxt-qr-code": "github:jacobcarpenter/pxt-qr-code#322eb61d332688641641b885cef79bd1c7bd4ede",
+        "idx-font": "github:phatisena/idx-font#v4.0.0"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.12.56",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
